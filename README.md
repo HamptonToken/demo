@@ -13,3 +13,5 @@ Add assets
 * add existing assets
 
 Update assets
+
+Destroy assets
