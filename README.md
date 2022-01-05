@@ -3,7 +3,8 @@
 placeholder
 
 Login
-*with address 
+* with address
+* with signing with private key 
 
 Query assets
 * crypto
