@@ -19,3 +19,5 @@ Add assets
 Update assets
 
 Destroy assets
+
+Migrate assets
