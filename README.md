@@ -18,6 +18,7 @@ Add assets
 
 Update assets
 
-Destroy assets
+Destroy assets (non-NFT assets)
 
 Migrate assets
+
