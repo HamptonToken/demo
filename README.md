@@ -1,7 +1,5 @@
 # the demo for metaverse APIs
 
-placeholder
-
 Login
 * with address
 * with signing with private key 
