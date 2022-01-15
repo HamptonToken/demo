@@ -21,4 +21,6 @@ Update assets
 Destroy assets (non-NFT assets)
 
 Migrate assets
+* private to private
+* private to NFT
 
