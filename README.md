@@ -12,6 +12,8 @@ Query assets
 
 Add assets
 * create a new asset
+
+Import assets
 * add existing assets
 
 Update assets
