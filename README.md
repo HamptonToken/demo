@@ -1,4 +1,4 @@
-# the demo for metaverse APIs
+# the demo for metaverse APIs 
 
 Login
 * with address
@@ -24,3 +24,5 @@ Migrate assets
 * private to private
 * private to NFT
 
+JS Version
+Golang version
