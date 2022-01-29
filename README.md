@@ -24,5 +24,6 @@ Migrate assets
 * private to private
 * private to NFT
 
-JS Version
+JS Version(web3)
+
 Golang version
