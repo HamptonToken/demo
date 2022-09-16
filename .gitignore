@@ -13,7 +13,6 @@ bin-release/
 *.ipa
 *.apk
 *.doc
-*.jar
 *.test
 *.pdf
 *.tar
