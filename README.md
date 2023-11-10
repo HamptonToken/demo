@@ -1,4 +1,4 @@
-# the demo for metaverse APIs 
+# The demo for metaverse APIs 
 
 Login
 * with address
