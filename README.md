@@ -6,7 +6,7 @@ Login:
 
 Query assets
 * crypto
-* NFT.
+* NFT
 * personal
 * shared
 
